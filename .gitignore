@@ -1,0 +1,37 @@
+
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy/
+
+# pytest
+.pytest_cache/
+
+# Sphinx documentation
+build/
+
+# Thumbs.db
+Thumbs.db
+
+# macOS
+.DS_Store
